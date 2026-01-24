@@ -126,6 +126,14 @@ body {
     border-style: dashed;
 }
 
+.warning {
+  color: #b00020;
+  font-weight: bold;
+  background: #ffe6e6;
+  padding: 8px;
+  border-left: 4px solid #b00020;
+}
+
 .seat { border-color: #00cc00; }
 .stand { border-color: #ffcc00; }
 .limited, .no { border-color: #ff0000; }
