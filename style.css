@@ -127,11 +127,11 @@ body {
 }
 
 .warning {
-  color: #D1D100;
+  color: #757500;
   font-weight: bold;
   background: #ffff5c;
   padding: 8px;
-  border-left: 4px solid #b00020;
+  border-left: 4px solid #757500;
 }
 
 .seat { border-color: #00cc00; }
