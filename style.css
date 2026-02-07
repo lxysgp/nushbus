@@ -127,9 +127,9 @@ body {
 }
 
 .warning {
-  color: #b00020;
+  color: #D1D100;
   font-weight: bold;
-  background: #ffe6e6;
+  background: #ffff5c;
   padding: 8px;
   border-left: 4px solid #b00020;
 }
